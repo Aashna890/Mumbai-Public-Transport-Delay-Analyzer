@@ -3,8 +3,8 @@ A data-driven solution to understand and analyze public transport delays in Mumb
 ##  Features
 
 -> Random generation of transport data:
-  -> Modes: Local, Metro, Bus
-  -> Lines, Routes, Scheduled Times
-  -> Weather Conditions and Delays
--> Simulates error scenarios: Cancelled, Early, On Time
--> Automatically uploads the generated data to a BigQuery table
+  - Modes: Local, Metro, Bus
+  - Lines, Routes, Scheduled Times
+  - Weather Conditions and Delays
+- Simulates error scenarios: Cancelled, Early, On Time
+- Automatically uploads the generated data to a BigQuery table
